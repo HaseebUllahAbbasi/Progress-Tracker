@@ -1,0 +1,12 @@
+[submodule "desktop-progress-tracker"]
+	path = desktop-progress-tracker
+	url = git@github.com:HaseebUllahAbbasi/desktop-progress-tracker.git
+[submodule "app-progress-tracker"]
+	path = app-progress-tracker
+	url = git@github.com:HaseebUllahAbbasi/app-progress-tracker.git
+[submodule "web-progress-tracker"]
+	path = web-progress-tracker
+	url = git@github.com:HaseebUllahAbbasi/web-progress-tracker.git
+[submodule "backend-progress-tracker"]
+	path = backend-progress-tracker
+	url = git@github.com:HaseebUllahAbbasi/backend-progress-tracker.git
