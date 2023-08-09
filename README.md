@@ -40,3 +40,10 @@ The application uses a client-server architecture, where the server handles the 
 The application's user interface (UI) will be designed to be intuitive and user-friendly, allowing users to easily add, edit, and view their notes and todos. The real-time collaboration feature will update the user interface in real-time whenever changes are made by any user on the platform.
 
 Overall, the application aims to enhance productivity, time management, and collaboration by providing a unified platform for users to manage their daily tasks and notes effectively, irrespective of their preferred platform (web, mobile, or desktop).
+
+## Steps to Contribute to Project
+1. clone the repos
+2. make your branch
+3. make your changes
+4. raise a pr  
+ 
